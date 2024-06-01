@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Uniswap from './pages/uniswap';
+import Uniswap from './pages/uniswap.tsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
